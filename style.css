@@ -125,7 +125,8 @@ button1 {
     text-align:left;
     margin-left: 30%;
     margin-right: 30%;
-    font: 36px;
+    font-style: italic;
+    font-size: 36px;
     color: #1F2937;
 }
 
@@ -133,6 +134,8 @@ button1 {
     text-align: right;
     margin-left: 30%;
     margin-right: 30%;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .box4 {
@@ -141,4 +144,14 @@ button1 {
 
 }
 
+.footer {
+    display: flex;
+    background: #1F2937;
+    font-size: 14px;
+    color:#E5E7EB;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    }
+    
 
