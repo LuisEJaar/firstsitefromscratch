@@ -119,12 +119,13 @@ button1 {
     flex: 1;
     background: #E5E7EB;
     justify-content: center;
+    padding: 60px;
 }
 
 .quote-text {
     text-align:left;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 25%;
+    margin-right: 25%;
     font-style: italic;
     font-size: 36px;
     color: #1F2937;
@@ -132,8 +133,8 @@ button1 {
 
 .quote-author {
     text-align: right;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 25%;
+    margin-right: 25%;
     font-size: 16px;
     font-weight: bold;
 }
