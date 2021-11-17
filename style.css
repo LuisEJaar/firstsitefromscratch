@@ -64,6 +64,7 @@ taken up*/
     font-size: 18px;
     align-items: center;
     padding: 80px;
+    justify-content: center;
 }
 
 .box1-content {
