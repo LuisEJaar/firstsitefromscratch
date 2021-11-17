@@ -50,6 +50,7 @@ font-size: 12px;
     color: #E5E7EB;
     font-size: 18px;
     align-items: center;
+    padding: 80px;
 }
 
 .box1-content {
@@ -107,8 +108,8 @@ font-size: 12px;
 .placeholder2 {
     background:white;
     border-radius: 8px;
-    width: 140px;
-    height: 140px;
+    width: 155px;
+    height: 155px;
     border: teal;
     border-style: solid;
 }
@@ -117,14 +118,14 @@ font-size: 12px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 160px;
+    width: 170px;
 }
 
 .img-row {
     display: flex;
     text-align: center;
-    
-    margin-top: 20px;
+    margin-top: 40px;
+    gap: 20px;
 }
 
 .box3 {
@@ -171,6 +172,8 @@ font-size: 12px;
     justify-content: center;
     align-items: center;
     gap:30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .call-text {
